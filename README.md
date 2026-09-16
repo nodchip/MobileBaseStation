@@ -17,10 +17,10 @@ MobileBaseStation/
 │   ├── concept.md                    作品の核・テーマ
 │   ├── characters.md                 人物設定
 │   ├── world.md                      世界・勢力・能力・通信仕様・用語
-│   ├── outline.md                    全巻構成案・日常回の題材
+│   ├── outline.md                    全章構成案・日常回の題材
 │   ├── open-questions.md             未決事項と採用した判断
 │   ├── continuity.md                本文で確定した時系列・設備・伏線
-│   ├── progress.md                  話数・巻・タイトル・執筆／投稿状況
+│   ├── progress.md                  話数・章・タイトル・執筆／投稿状況
 │   ├── episode-NN.md                各話のプロット（具体化時に作成）
 │   └── reviews/
 │       └── NN.md                    レビュー記録（実施時に作成）
@@ -30,7 +30,7 @@ MobileBaseStation/
     └── checklist.md                 各話の投稿前後チェック
 ```
 
-`NN` は巻をまたぐ通し話数（01、02、…、99、100、…）。巻別フォルダには分けず、巻との対応を progress.md に記録する。並べるときは話数を数値として扱う。
+`NN` は章をまたぐ通し話数（01、02、…、99、100、…）。章別フォルダには分けず、章との対応を progress.md に記録する。並べるときは話数を数値として扱う。
 
 本文には物語だけを書き、話タイトルや公開URLは progress.md に置く。publishing/ に本文の複製を置かないことで、修正漏れを防ぐ。未執筆の空本文や架空のレビュー記録は作成しない。
 
