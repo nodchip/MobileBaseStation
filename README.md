@@ -37,6 +37,8 @@ MobileBaseStation/
 
 ## 資料の扱い
 
+各章の詳細プロット（planning/chapter-NN.md）の先頭見出しは `# 第N章『章タイトル』` とする。Nはゼロ埋めしない半角数字とし、見出し末尾に「詳細プロット」は付けない。例：`# 第1章『圏外の村』`。
+
 source-request.txt は原文控えとして保存する。現在の設定は concept.md・characters.md・world.md、構成案は outline.md に整理した。後から採用した変更は該当資料と open-questions.md の決定履歴に記録する。未決事項は本文執筆時に必要な範囲から解決し、提案を確定設定と混同しない。
 
 ## 執筆から投稿まで
