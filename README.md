@@ -18,6 +18,7 @@ MobileBaseStation/
 │   ├── characters.md                 人物設定
 │   ├── world.md                      世界・勢力・能力・通信仕様・用語
 │   ├── outline.md                    全章構成案・日常回の題材
+│   ├── chapter-01.md                 第1章の詳細設計・地理・運用案
 │   ├── open-questions.md             未決事項と採用した判断
 │   ├── continuity.md                本文で確定した時系列・設備・伏線
 │   ├── progress.md                  話数・章・タイトル・執筆／投稿状況
@@ -45,7 +46,7 @@ source-request.txt は原文控えとして保存する。現在の設定は con
 3. 確定した出来事を continuity.md、執筆状況とレビュー記録へのリンクを progress.md に反映する。
 4. 投稿依頼があれば checklist.md に沿って投稿画面とプレビューを確認し、投稿後に公開状況を記録する。
 
-初期状態は構成・資料の準備のみ。本文、各話プロット、レビュー、カクヨム投稿は未着手。
+第1章は全12話の詳細プロットを作成済み。章全体の設計は [planning/chapter-01.md](planning/chapter-01.md)、各話は planning/episode-01.md〜episode-12.md を参照する。本文・本文レビュー・カクヨム投稿は未着手。
 
 ## スキルの取り込み元
 
