@@ -48,7 +48,7 @@ source-request.txt は原文控えとして保存する。現在の設定は con
 3. 確定した出来事を continuity.md、執筆状況とレビュー記録へのリンクを progress.md に反映する。
 4. 投稿依頼があれば checklist.md に沿って投稿画面とプレビューを確認し、投稿後に公開状況を記録する。
 
-第1章は全12話の詳細プロットを作成済み。章全体の設計は [planning/chapter-01.md](planning/chapter-01.md)、各話は planning/episode-01.md〜episode-12.md を参照する。第1〜2話は本文執筆・二段階レビュー完了。第3〜12話の本文と全話のカクヨム投稿は未着手。最新状況は planning/progress.md を参照する。
+第1章は全12話の詳細プロットを作成済み。章全体の設計は [planning/chapter-01.md](planning/chapter-01.md)、各話は planning/episode-01.md〜episode-12.md を参照する。第1〜3話は本文執筆・二段階レビュー完了。第4〜12話の本文と全話のカクヨム投稿は未着手。最新状況は planning/progress.md を参照する。
 
 ## スキルの取り込み元
 
