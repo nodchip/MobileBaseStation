@@ -73,3 +73,22 @@
 - 第二段階読了：planning/concept.md、characters.md、world.md、outline.md、open-questions.md、chapter-01-status.md、continuity.md、progress.md、chapter-01.md、episode-12.md、publishing/format.md、checklist.md の対象関連箇所を確認。数値の初提示、第2段階の120条件、第3段階の300・村外通話・24時間運用条件と未達事項を照合。追加指摘なし。両段階 Critical 0 / Important 0 / Minor 0、未確認範囲なし。「両段階の指摘ゼロ」。
 - 親の要約照合：人物の数値・状態、設備の運用状況、第2段階解禁済みと第3段階未達を列挙するというLunaの要約は意図と一致。話数・ストーリー描写なし。
 - 最終結果：人物・能力数値の追加は2周目で指摘ゼロ。未解消の理解不足・未確認範囲なし。最終SHA-256：1143792666AECF641B97A65A480E9091C5969FD13189D79DCA6BDCDC06CFEA58。親とLunaの実バイト照合一致。レビュー後の対象変更なし。投稿チェック・カクヨム投稿は未実施。
+
+## 数値の扱いの注記削除後のレビュー
+
+- 開始日：2026-09-28。指定モデル：gpt-6-luna、fork_turns: none。エージェントID：/root/chapter01_status_line_removed_r1。
+- 対象：manuscript/chapter-01-status.txt。開始時SHA-256：E088B27D6B57E710405A2D34AD30105563C57C62286C693D118E04AAC7E019F7。
+- 変更：ユーザー指定により、冒頭の「数値の扱い」注記1行を削除。数値そのものと条件は変更なし。
+- 第一段階読了：manuscript/01.txt〜12.txtと対象全文（102行）。章末時点の担当・設備・能力を把握。Critical 0 / Important 0 / Minor 0、未読範囲なし。「第一段階の指摘ゼロ」。
+- 第二段階読了：planning/concept.md、characters.md、world.md、outline.md、open-questions.md、chapter-01-status.md、continuity.md、progress.md、chapter-01.md、episode-12.md、publishing/format.md、checklist.md の12件。S2-1 / Minor：リーシャ・ガルド・ミミル・オルムの「技能・実績」欄に、担架手配、門閉鎖・射撃、内門での人数確認、夜間の報告集約など、各話の行動経過が記されている。人物の能力と現在の担当だけを示す資料に直す。両段階 Critical 0 / Important 0 / Minor 1、未読範囲なし。
+- 親の要約照合：第3日朝の通信・防衛・避難の状態と次段階未達の読み取りは意図と一致。S2-1を修正し、再レビューするため、この周回は未完了。
+
+## 技能欄修正後の再レビュー
+
+- 開始日：2026-09-28。対象：manuscript/chapter-01-status.txt。開始時SHA-256：89E50056A66B30D5ADFF0DDA0FF7001266E1897B121ED9A201680FDEFD11C18D。
+- 修正：4人の「技能・実績」を「技能」に変更し、出来事の経過を技能・担当の名詞句に整理。冒頭の「数値の扱い」注記は引き続き削除したまま。
+- 指定モデル：gpt-6-luna、fork_turns: none。エージェントID：/root/chapter01_status_line_removed_r2。
+- 第一段階読了：manuscript/01.txt〜12.txtと対象全文（103行）。人物の状態と所在、負傷者3人、貸与16台・保管184台、未実施事項を確認。Critical 0 / Important 0 / Minor 0、未読範囲なし。「第一段階の指摘ゼロ」。
+- 第二段階読了：planning/concept.md、characters.md、world.md、outline.md、open-questions.md、chapter-01-status.md、continuity.md、progress.md、chapter-01.md、episode-12.md、publishing/format.md、checklist.md の全文。技能欄は状態・担当として読め、人物数値・能力条件・書式と整合。追加指摘なし。両段階 Critical 0 / Important 0 / Minor 0、未読範囲なし。「両段階の指摘ゼロ」。
+- 親の要約照合：第3日朝の人物・通信網の状態、第2段階解禁済み・中継機材未召喚という読み取りは意図と一致。数値の加点内訳は未提示の設定であり、今回の理解不足ではない。
+- 最終結果：注記削除と技能欄修正は2周目で全指摘ゼロ。未解消の理解不足・未確認範囲なし。最終SHA-256：89E50056A66B30D5ADFF0DDA0FF7001266E1897B121ED9A201680FDEFD11C18D。親とLunaの実バイト照合一致。レビュー後の対象変更なし。投稿チェック・カクヨム投稿は未実施。
