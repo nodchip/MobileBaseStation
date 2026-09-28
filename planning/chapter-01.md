@@ -74,7 +74,7 @@
 | 12 | 隣の町まで、届きますか | 第3日朝 | 統也が当番を任せ、次の接続へ踏み出す | [12](episode-12.md) |
 
 
-章末の幕間：[三日分の日報](../manuscript/chapter-01-interlude.txt)。設計は [章末の幕間](chapter-01-interlude.md) を参照する。
+章末の幕間：[三日分の日報](../manuscript/0013-interlude-chapter-01.txt)。設計は [章末の幕間](chapter-01-interlude.md) を参照する。
 
 ## 決戦の因果
 

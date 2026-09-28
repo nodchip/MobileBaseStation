@@ -18,7 +18,7 @@ description: このプロジェクトの各話を執筆・改稿した後、gpt-
 
 パスはリポジトリルートからの相対パス。
 
-- 本文の正本：`manuscript/NN.txt`。空なら未執筆と報告し、合格にしない。執筆依頼もある場合は初稿を書いてから実行する。
+- 本文の正本：`manuscript/PPPP-episode-NN.txt`。PPPP は4桁の投稿順、NN は2桁以上の作中話数。話数のない幕間は `manuscript/PPPP-interlude-chapter-CC.txt` を使う。空なら未執筆と報告し、合格にしない。執筆依頼もある場合は初稿を書いてから実行する。
 - 設定：`planning/concept.md`、`planning/characters.md`、`planning/world.md`。
 - 構成・未決事項：`planning/outline.md`、`planning/open-questions.md`、存在する場合の `planning/episode-NN.md`。
 - 継続性・進捗：`planning/continuity.md`、`planning/progress.md`。
