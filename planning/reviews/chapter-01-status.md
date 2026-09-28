@@ -38,3 +38,14 @@
 - 最終結果：修正版の二段階レビューは3周目で指摘ゼロ。未解消の理解不足・未確認範囲なし。最終SHA-256：91CB9CAFF1683C65A7C57D8CD105BE2490028BF93C281F142C158843FCC3FEB8。親とLunaの実バイト照合一致。レビュー後の対象変更なし。
 
 レビュー完了は投稿準備完了・公開済みを意味しない。投稿チェック・カクヨム投稿は未実施。
+
+## 公開参考回に合わせた人物別形式のレビュー
+
+- 開始日：2026-09-28。指定モデル：gpt-6-luna、fork_turns: none。エージェントID：/root/chapter01_status_reference_r1。
+- 参考：[第25章終了時点でのステータス（カクヨム公開版）](https://kakuyomu.jp/works/822139844162680170/episodes/2912051607892784350)。人物ごとの情報・技能・状態と全体情報の構成だけを参考にし、当作品に存在しない数値や称号は採用しない。
+- 対象：manuscript/chapter-01-status.txt。開始時SHA-256：1C03354CA5D155B1058CC0F2360AA321040953CC432D7DE10F897EBFC00DF9B9。
+- 第一段階読了：manuscript/01.txt〜12.txtと対象全文（71行）。人物・人数・負傷者の所在、段階と制約、話数・物語描写なしを確認。Critical 0 / Important 0 / Minor 0、未読範囲なし。「第一段階の指摘ゼロ」。
+- 第二段階読了：planning/concept.md、characters.md、world.md、outline.md、open-questions.md、chapter-01-status.md、continuity.md、progress.md、chapter-01.md、episode-12.md、publishing/format.md、checklist.md の全文。Critical 0 / Important 0 / Minor 0、未読範囲なし。「両段階の指摘ゼロ」。
+- 親の要約照合：主要人物5人の役割・担当・状態と、車両・通信・端末・電源・中継局の状況を第3日朝時点で示すというLunaの要約は意図と一致。数値が作中未提示の項目、既に確認済みの項目、未実施事項を混同しない。
+- 対応：参考回の人物別構成を取り入れ、作中の確定事項だけで組み直した。レビュー開始後の対象変更なし。
+- 最終結果：今回の改稿は二段階レビュー1周で Critical 0 / Important 0 / Minor 0。未解消の理解不足・未確認範囲なし。最終SHA-256：1C03354CA5D155B1058CC0F2360AA321040953CC432D7DE10F897EBFC00DF9B9。親とLunaの実バイト照合一致。
