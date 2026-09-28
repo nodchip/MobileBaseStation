@@ -49,3 +49,27 @@
 - 親の要約照合：主要人物5人の役割・担当・状態と、車両・通信・端末・電源・中継局の状況を第3日朝時点で示すというLunaの要約は意図と一致。数値が作中未提示の項目、既に確認済みの項目、未実施事項を混同しない。
 - 対応：参考回の人物別構成を取り入れ、作中の確定事項だけで組み直した。レビュー開始後の対象変更なし。
 - 最終結果：今回の改稿は二段階レビュー1周で Critical 0 / Important 0 / Minor 0。未解消の理解不足・未確認範囲なし。最終SHA-256：1C03354CA5D155B1058CC0F2360AA321040953CC432D7DE10F897EBFC00DF9B9。親とLunaの実バイト照合一致。
+
+## 人物・能力数値を加えた改稿のレビュー
+
+- 開始日：2026-09-28。指定モデル：gpt-6-luna、fork_turns: none。エージェントID：/root/chapter01_numeric_status_r1。
+- 対象：manuscript/chapter-01-status.txt。開始時SHA-256：5030A7406014242B9DA4757AC2312A8C11C98AFB10255E801075C37A1D4E086E。
+- 変更：主要5人のHP・MP・レベル・経験値、統也の有効接続値128、第2段階の120条件と第3段階の300・中継通話・24時間運用条件を初提示。
+- 第一段階読了：manuscript/01.txt〜12.txtと対象全文（103行）。Critical 0 / Important 0 / Minor 0、未読範囲なし。「第一段階の指摘ゼロ」。
+- 第二段階読了：planning/concept.md、characters.md、world.md、outline.md、open-questions.md、chapter-01-status.md、continuity.md、progress.md、chapter-01.md、episode-12.md、publishing/format.md、checklist.md の全文。S2-01 / Important：44・59行の「前日から足を傷めた騎士」は第1日夕方の救出時の負傷であり、第3日朝の「前日」と一致しない。第12話15行にも同じ表現がある。Critical 0 / Important 1 / Minor 0、未読範囲なし。
+- 親の要約照合：新しいHP・MP・レベル・経験値、有効接続値128、次段階の300と追加条件の読み取りは意図と一致。負傷時点を第12話とともに修正し、両本文を再レビューするため、この周回は未完了。
+
+## 負傷時点修正後の再レビュー
+
+- 開始日：2026-09-28。第12話の「前日」を「一昨日の救出」へ修正後、章末資料の該当箇所を「第1日夕方の救出」へ修正。まず第12話を独立レビューし、その後に新規Lunaで章末資料を全文再レビューする。
+- 章末資料の現行SHA-256：1143792666AECF641B97A65A480E9091C5969FD13189D79DCA6BDCDC06CFEA58。章末資料の新規エージェントは未起動。
+
+## 第12話の時系列・端末確認修正後の再レビュー
+
+- 開始日：2026-09-28。指定モデル：gpt-6-luna、fork_turns: none。エージェントID：/root/chapter01_numeric_status_r2。
+- 対象SHA-256：1143792666AECF641B97A65A480E9091C5969FD13189D79DCA6BDCDC06CFEA58。第12話は新規Lunaの二段階レビューで指摘ゼロ、SHA-256 1D23AA91FEDDCBCCE87BDEB92628261C6D113487FFA013F1173A2524CA0A79A4。
+- 修正：足を傷めた騎士の時点を「第1日夕方の救出」に統一。人物HP・MP・レベル・経験値、有効接続値と次段階条件は前周回から変更なし。
+- 第一段階読了：manuscript/01.txt〜12.txtと対象全文。第3日朝の人物・設備の状態、有効接続値128から300まで172不足、貸与16台・保管184台、騎士班4台の所在、負傷者の時系列を確認。Critical 0 / Important 0 / Minor 0、未読範囲なし。「第一段階の指摘ゼロ」。
+- 第二段階読了：planning/concept.md、characters.md、world.md、outline.md、open-questions.md、chapter-01-status.md、continuity.md、progress.md、chapter-01.md、episode-12.md、publishing/format.md、checklist.md の対象関連箇所を確認。数値の初提示、第2段階の120条件、第3段階の300・村外通話・24時間運用条件と未達事項を照合。追加指摘なし。両段階 Critical 0 / Important 0 / Minor 0、未確認範囲なし。「両段階の指摘ゼロ」。
+- 親の要約照合：人物の数値・状態、設備の運用状況、第2段階解禁済みと第3段階未達を列挙するというLunaの要約は意図と一致。話数・ストーリー描写なし。
+- 最終結果：人物・能力数値の追加は2周目で指摘ゼロ。未解消の理解不足・未確認範囲なし。最終SHA-256：1143792666AECF641B97A65A480E9091C5969FD13189D79DCA6BDCDC06CFEA58。親とLunaの実バイト照合一致。レビュー後の対象変更なし。投稿チェック・カクヨム投稿は未実施。
