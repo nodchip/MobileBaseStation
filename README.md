@@ -50,7 +50,7 @@ source-request.txt は原文控えとして保存する。現在の設定は con
 3. 確定した出来事を continuity.md、執筆状況とレビュー記録へのリンクを progress.md に反映する。
 4. 投稿依頼があれば checklist.md に沿って投稿画面とプレビューを確認し、投稿後に公開状況を記録する。
 
-第1章は第1〜12話の物語編と、統也が記した話数のない幕間「三日分の日報」で構成する。章全体の設計は [planning/chapter-01.md](planning/chapter-01.md)、各話は planning/episode-01.md〜episode-12.md、幕間の正本は [manuscript/0013-interlude-chapter-01.txt](manuscript/0013-interlude-chapter-01.txt) を参照する。第1〜12話の本文・二段階レビューは完了。幕間の二段階レビューも完了。第2章は[章全体の詳細プロット](planning/chapter-02.md)と第13〜24話の各話プロットを作成済み。第13〜15話の本文・レビューは完了し、第16〜24話は未着手。カクヨム投稿は未着手。最新状況は planning/progress.md を参照する。
+第1章は第1〜12話の物語編と、統也が記した話数のない幕間「三日分の日報」で構成する。章全体の設計は [planning/chapter-01.md](planning/chapter-01.md)、各話は planning/episode-01.md〜episode-12.md、幕間の正本は [manuscript/0013-interlude-chapter-01.txt](manuscript/0013-interlude-chapter-01.txt) を参照する。第1〜12話の本文・二段階レビューは完了。幕間の二段階レビューも完了。第2章は[章全体の詳細プロット](planning/chapter-02.md)と第13〜24話の各話プロットを作成済み。第13〜16話の本文・レビューは完了し、第17〜24話は未着手。カクヨム投稿は未着手。最新状況は planning/progress.md を参照する。
 
 ## スキルの取り込み元
 
