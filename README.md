@@ -51,7 +51,13 @@ source-request.txt は原文控えとして保存する。現在の設定は con
 3. 確定した出来事を continuity.md、執筆状況とレビュー記録へのリンクを progress.md に反映する。
 4. 投稿依頼があれば checklist.md に沿って投稿画面とプレビューを確認し、投稿後に公開状況を記録する。
 
-第1章は第1〜12話の物語編と、統也が記した話数のない幕間「三日分の日報」で構成する。章全体の設計は [planning/chapter-01.md](planning/chapter-01.md)、各話は planning/episode-01.md〜episode-12.md、幕間の正本は [manuscript/0013-interlude-chapter-01.txt](manuscript/0013-interlude-chapter-01.txt) を参照する。第1〜12話の本文・二段階レビューは完了。幕間の二段階レビューも完了。第2章は[章全体の詳細プロット](planning/chapter-02.md)と第13〜24話の各話プロットを作成済み。第13〜24話の本文・レビューは完了。第24話後の[業務日報幕間](manuscript/0026-interlude-chapter-02.txt)は本文・二段階レビュー完了。設計は[第2章幕間](planning/interlude-chapter-02.md)を参照。第3章は[章全体の詳細プロット](planning/chapter-03.md)と第25〜36話の各話プロットを作成済み。本文・レビューは未着手。カクヨム投稿は未着手。最新状況は planning/progress.md を参照する。
+第1章は第1〜12話と、統也が記した話数のない幕間「三日分の日報」で構成する。[章全体の設計](planning/chapter-01.md)、planning/episode-01.md〜episode-12.md、[幕間の正本](manuscript/0013-interlude-chapter-01.txt)を参照。
+
+第2章は第13〜24話と[業務日報幕間](manuscript/0026-interlude-chapter-02.txt)で構成する。[章全体の詳細プロット](planning/chapter-02.md)、各話のプロット、[幕間の設計](planning/interlude-chapter-02.md)を参照。
+
+2026-10-12：第1〜24話と二本の幕間は、新しい描写方針による改稿・gpt-6-lunaの二段階レビュー・投稿チェック・カクヨム公開版への反映を完了。先にユーザー確認・反映した第17話はその稿を維持し、残り25本を改稿した。全回の最終指摘ゼロ、原稿ハッシュ一致、公開本文との一致を確認。実施範囲は[改稿一覧](planning/reviews/style-2026-10-12.md)、各話のURL・日時とレビュー記録は[進捗](planning/progress.md)を参照する。
+
+第3章は[章全体の詳細プロット](planning/chapter-03.md)と第25〜36話の各話プロットを作成済み。本文・レビュー・投稿は未着手。
 
 ## スキルの取り込み元
 
