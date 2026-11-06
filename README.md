@@ -67,3 +67,5 @@ source-request.txt は原文控えとして保存する。現在の設定は con
 ## スキルの取り込み元
 
 `C:\home\nodchip\akai-kitsune-midori-tanuki\.agents\skills\episode-review-fix-loop\SKILL.md` を2026-09-16に取り込み、本作の人物・通信技術・テーマに合わせて確認項目を変更した。二段階レビュー、毎周回の新規Luna、全重要度の指摘解消、本文のSHA-256照合は維持している。
+
+第4章末には、統也の私的な記録として[幕間『途切れた声の業務日報』](manuscript/0052-interlude-chapter-04.txt)を置く。本文・二段階レビュー完了、投稿チェック・投稿は未実施。
