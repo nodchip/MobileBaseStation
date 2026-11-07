@@ -23,6 +23,7 @@ MobileBaseStation/
 │   ├── chapter-02.md                 第2章の詳細プロット・仮の地理と運用案
 │   ├── chapter-03.md                 第3章の詳細プロット・王都の試用と告発事件
 │   ├── chapter-04.md                 第4章の詳細プロット・軍令と家族通話の混雑
+│   ├── chapter-05.md                 第5章の詳細プロット・通信障害と現地の運用
 │   ├── open-questions.md             未決事項と採用した判断
 │   ├── continuity.md                本文で確定した時系列・設備・伏線
 │   ├── progress.md                  話数・章・タイトル・執筆／投稿状況
@@ -69,3 +70,5 @@ source-request.txt は原文控えとして保存する。現在の設定は con
 `C:\home\nodchip\akai-kitsune-midori-tanuki\.agents\skills\episode-review-fix-loop\SKILL.md` を2026-09-16に取り込み、本作の人物・通信技術・テーマに合わせて確認項目を変更した。二段階レビュー、毎周回の新規Luna、全重要度の指摘解消、本文のSHA-256照合は維持している。
 
 第4章末には、統也の私的な記録として[幕間『途切れた声の業務日報』](manuscript/0052-interlude-chapter-04.txt)を置く。本文・二段階レビュー完了、投稿チェック・投稿は未実施。
+
+第5章『沈黙の大陸』は[章全体の詳細プロット](planning/chapter-05.md)と第49〜60話の各話プロットを作成済み。本文は未着手。妨害の原因や新設備、現地の権限と費用は執筆前の案として扱う。
