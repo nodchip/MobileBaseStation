@@ -75,4 +75,4 @@ source-request.txt は原文控えとして保存する。現在の設定は con
 
 第5章末には、第60話の後に統也の私的な[幕間『声を運ぶ業務日報』](manuscript/0065-interlude-chapter-05.txt)を置く。本文・二段階レビュー完了（1周・指摘ゼロ）。投稿チェック・投稿は未実施。
 
-第6章『偽りの声』は[章全体の詳細プロット](planning/chapter-06.md)と第61〜72話の各話プロットを作成済み。王都の偽命令をきっかけに、承認元の確認と現地からの訂正を描く。[第61話](manuscript/0066-episode-61.txt)・[第62話](manuscript/0067-episode-62.txt)・[第63話](manuscript/0068-episode-63.txt)・[第64話](manuscript/0069-episode-64.txt)・[第65話](manuscript/0070-episode-65.txt)は本文・二段階レビュー完了。第66話以降の本文・レビューおよび第61〜65話の投稿チェック・投稿は未実施。
+第6章『偽りの声』は[章全体の詳細プロット](planning/chapter-06.md)と第61〜72話の各話プロットを作成済み。王都の偽命令をきっかけに、承認元の確認と現地からの訂正を描く。[第61話](manuscript/0066-episode-61.txt)・[第62話](manuscript/0067-episode-62.txt)・[第63話](manuscript/0068-episode-63.txt)・[第64話](manuscript/0069-episode-64.txt)・[第65話](manuscript/0070-episode-65.txt)・[第66話](manuscript/0071-episode-66.txt)は本文・二段階レビュー完了。第67話以降の本文・レビューおよび第61〜66話の投稿チェック・投稿は未実施。
